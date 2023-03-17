@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    font-weight: bolder;
+    margin-left: 2em;
+}
+#button{
+    background-color: rgb(184, 85, 85);
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding: 5px;
+}
